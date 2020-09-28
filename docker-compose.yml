@@ -1,0 +1,43 @@
+version: "3"
+
+services:
+  mysql:
+    image: mysql:5.7
+    container_name: bregdcat-mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - 43306:3306    
+    volumes:
+      - "./mysql/dcat-database-init.sql:/docker-entrypoint-initdb.d/z_dcat-database-init.sql"
+      - "./volumes/mysql/:/var/lib/mysql/"
+
+
+  editor:
+    build: ./editor
+    image: bregdcat_editor:0.01
+    container_name: bregdcat-editor
+    ports:
+      - 40080:80    
+    links:
+      - mysql
+    restart: unless-stopped
+    environment:
+      VIRTUOSO_SPARQL_ENDPOINT: 'http://localhost:48890/sparql'
+      GRAPHURI: 'http://drupal.bregdcat-ap.eu'
+    volumes:
+      - "./volumes/editor/sites/:/var/www/html/sites/"
+
+  virtuoso:
+    image: tenforce/virtuoso:virtuoso7.2.4
+    container_name: bregdcat-virtuoso
+    environment:
+      SPARQL_UPDATE: 'true'
+      DEFAULT_GRAPH: 'http://data.ctic.es'
+    ports:
+      - '48890:8890'
+    volumes:
+      - ./volumes/virtuoso:/data
+
