@@ -1,0 +1,829 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.2="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/07ed8d46-2b56-11e7-9412-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country"/>
+    <j.2:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-24T00:40:10.497+02:00</j.2:lastModificationDate>
+    <j.2:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-17T09:41:05.871+02:00</j.2:creationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180620-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20160921-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/94fa828a-2b85-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/ontology/cdm#datetime_transmission">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/cc7e7d1b-7582-11e8-ac6a-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20180620-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20160316-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20171213-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180926-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/7fe84fa7-2b96-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20150916-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/0c47920f-fe17-11e8-a96d-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/f4b44513-2866-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20160316-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/82f453e2-b59b-11ea-bb7a-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160316-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/8d9a286b-e9b6-11e8-b690-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20150520-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/7ba99b58-261d-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160921-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20181212-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/1652dacd-2b56-11e7-9412-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20151118-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20190918-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20180620-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/5d5c49fd-3c20-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/84c82210-2b95-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/f7eb04f0-2c3a-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/a521aaa7-1e1a-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20170721-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20200318-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/f797e63e-7d8c-11e7-b2f2-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20170721-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/612dfbeb-1b3d-11ea-8c1f-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20200131-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/fed41b47-c0bf-11e8-9893-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/24d46bb9-25fb-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20160217-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20200624-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/6eda7bd6-9297-11e9-9369-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/e01808d5-291a-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/2c0fa248-6891-11ea-b735-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/f3b28da5-fe1a-11e8-a96d-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20171213-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20161214-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170427-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/b7707e6d-e3e8-11e7-9749-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/5d9e1999-350d-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/339d21c2-3c1b-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170920-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/3c186e2e-2926-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20150520-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20170721-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20191211-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/356f682a-4366-11ea-b81b-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/94b9c22a-2b80-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/617acef6-351e-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170721-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20151118-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/fa24393c-1c71-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190918-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20150318-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20180321-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20200131-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20150916-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/f967eb50-7d8c-11e7-b2f2-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/642f122f-75ef-11e8-ac6a-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20180620-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/6cc1b7ed-2866-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20160316-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20190220-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20181114-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20200624-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#documentation"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/62626695-2b89-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/c82530f5-2611-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body/PUBL">
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190301-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20190619-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/51f5991f-2c3c-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20150318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20181212-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20191211-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/f33dddb3-928e-11e9-9369-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/37f1e154-2b56-11e7-9412-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/db7cab2b-2611-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20161214-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20180926-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/9c114620-2c30-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20150520-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160217-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/dataset-type/NAL">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_type_dataset"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20180321-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/e9f287ac-e9b8-11e8-b690-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20181114-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20150916-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/51f34d4c-2c52-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20180321-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20200318-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/dc064fdc-2b96-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20150916-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20200318-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20191211-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20150916-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/frequency/OTHER">
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#publication_frequency"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20150318-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20190301-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20160316-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/bdafcab3-c0b8-11e8-9893-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/d16b0877-d895-11e9-9c4e-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/e6961eb9-1c71-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/cb6f6aed-2863-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180321-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/65d59392-e9b8-11e8-b690-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20181114-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20170427-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/b652d968-e3e8-11e7-9749-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/a000183c-c0be-11e8-9893-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20170920-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20161214-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/2996008c-752b-11e8-9483-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/7aee806d-352a-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20190619-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20200624-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20190918-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190220-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20151118-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/c52fdb84-1c71-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20181114-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20160921-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20170427-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/edb344a9-2c4e-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20180321-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20171213-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/6d453916-2dba-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20190220-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20181114-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/dac594ea-3c2c-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20170721-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20161214-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/9959ce67-9296-11e9-9369-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/c1b516dc-2611-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20161214-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20160217-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/4fd3e950-2c4a-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country">
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:keyword>authority data</j.0:keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <j.0:work_id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/country</j.0:work_id_document>
+    <j.0:work_explained_by_work rdf:resource="http://publications.europa.eu/resource/documentation/country/20200624-0"/>
+    <j.0:datetime_negotiation rdf:resource="http://publications.europa.eu/ontology/cdm#datetime_transmission"/>
+    <j.0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/country</j.0:identifier>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#evolutive_work"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#complex_work"/>
+    <j.0:work_dataset_date_start rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1912-11-18</j.0:work_dataset_date_start>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:version>20200624-0</j.0:version>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+    <j.0:work_dataset_has_frequency_publication_frequency rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+    <j.0:description_editorial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            dir="ltr"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;The Country authority table is a controlled vocabulary that lists concepts associated with names of countries and territories.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;Its main scope is to support documentary metadata activities.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            dir="ltr"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;The concepts included are correlated with the ISO 3166 international standard. ISO 3166-1 contains a two-letter code which is recommended as the general purpose code, a three-letter code which has better mnenomic properties and a numeric-3 code which can be useful if script independence of the codes is important. The authority code relies on the ISO 3166-1/alpha-3 positions. If an authority code is needed for a country without assigned ISO code, an alphanumeric code is created in order to not confuse with ISO codes that are strictly alphabetic or numeric.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;A country code comparison is provided between ISO codes, IANA codes (Internet Country-code Top-level Domains) and TIR (Transport International par la Route) Vehicle system codes.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            dir="ltr"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;The Country authority table is updated based on the stakeholders' needs.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;Contributions to it are accepted following a review made by EU Vocabularies team of the Publications Office of the EU.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="font-family:'Arial Narrow';text-decoration:none"&gt;The Country authority table is maintained by the Publications Office of the European Union on the EU Vocabularies website&lt;span&gt;.&lt;/span&gt;
+            &lt;/p&gt;
+         </j.0:description_editorial>
+    <j.0:created_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:work_dataset_has_documentation_documentation rdf:resource="http://publications.europa.eu/resource/documentation/country/20200624-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+    <j.0:work_has_expression rdf:resource="http://publications.europa.eu/resource/expression/country"/>
+    <j.0:do_not_index rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:do_not_index>
+    <j.0:has_type rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/NAL"/>
+    <j.0:work_dataset_keyword>geography</j.0:work_dataset_keyword>
+    <j.0:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:date_document>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20180321-0"/>
+    <j.0:has_documentation rdf:resource="http://publications.europa.eu/resource/documentation/country/20200624-0"/>
+    <j.0:work_dataset_keyword>countries</j.0:work_dataset_keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:date_modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-14</j.0:date_modified>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:work_published_in_work rdf:resource="http://publications.europa.eu/resource/dataset/release/20200624-0"/>
+    <j.0:title xml:lang="en">Country</j.0:title>
+    <j.0:work_date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:work_date_document>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/country</j.0:id>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20160217-0"/>
+    <j.0:explained_by rdf:resource="http://publications.europa.eu/resource/documentation/country/20200624-0"/>
+    <j.0:work_dataset_keyword>controlled vocabulary</j.0:work_dataset_keyword>
+    <j.0:date_start rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1912-11-18</j.0:date_start>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190918-0"/>
+    <j.0:work_dataset_published_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20161214-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20160316-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20200624-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+    <j.0:work_dataset_date_modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-14</j.0:work_dataset_date_modified>
+    <j.0:work_dataset_keyword>authority data</j.0:work_dataset_keyword>
+    <j.0:datetime_transmission rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-24T00:01:00</j.0:datetime_transmission>
+    <j.0:work_dataset_description_editorial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            dir="ltr"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;The Country authority table is a controlled vocabulary that lists concepts associated with names of countries and territories.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;Its main scope is to support documentary metadata activities.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            dir="ltr"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;The concepts included are correlated with the ISO 3166 international standard. ISO 3166-1 contains a two-letter code which is recommended as the general purpose code, a three-letter code which has better mnenomic properties and a numeric-3 code which can be useful if script independence of the codes is important. The authority code relies on the ISO 3166-1/alpha-3 positions. If an authority code is needed for a country without assigned ISO code, an alphanumeric code is created in order to not confuse with ISO codes that are strictly alphabetic or numeric.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;A country code comparison is provided between ISO codes, IANA codes (Internet Country-code Top-level Domains) and TIR (Transport International par la Route) Vehicle system codes.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            dir="ltr"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;The Country authority table is updated based on the stakeholders' needs.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="line-height:12.95pt;font-family:'Arial Narrow';text-decoration:none"&gt;Contributions to it are accepted following a review made by EU Vocabularies team of the Publications Office of the EU.&lt;/p&gt;
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="font-family:'Arial Narrow';text-decoration:none"&gt;The Country authority table is maintained by the Publications Office of the European Union on the EU Vocabularies website&lt;span&gt;.&lt;/span&gt;
+            &lt;/p&gt;
+         </j.0:work_dataset_description_editorial>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170721-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:published_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:published_in rdf:resource="http://publications.europa.eu/resource/dataset/release/20200624-0"/>
+    <j.0:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:date>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:work_dataset_keyword>Authority Tables</j.0:work_dataset_keyword>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:keyword>countries</j.0:keyword>
+    <j.0:keyword>Authority Tables</j.0:keyword>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#serial_work"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+    <j.0:work_created_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20190301-0"/>
+    <j.0:work_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/country</j.0:work_id>
+    <j.0:work_date_creation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-05</j.0:work_date_creation>
+    <j.0:work_dataset_has_type_concept_type_dataset rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/NAL"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:work_title xml:lang="en">Country</j.0:work_title>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20181114-0"/>
+    <j.0:work_dataset_version>20200624-0</j.0:work_dataset_version>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20171213-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20191211-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150916-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20160921-0"/>
+    <j.0:keyword>country</j.0:keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:date_creation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-05</j.0:date_creation>
+    <j.0:id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/country</j.0:id_document>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:has_frequency rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+    <j.0:work_dataset_keyword>country</j.0:work_dataset_keyword>
+    <j.0:keyword>geography</j.0:keyword>
+    <j.0:keyword>controlled vocabulary</j.0:keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20151118-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180620-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170427-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20150318-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/country/20200318-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20180926-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/country/20170920-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/country/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/a2bcc862-fe06-11e8-a96d-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20181212-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20180620-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20200131-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/e298f20c-291b-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/release/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/country/20190301-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/c8a8805c-2c28-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/country/20150520-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/914f4b54-261d-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/country/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190619-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/country/20190619-0"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:ns2="http://purl.org/dc/terms/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:ns5="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:ns6="http://publications.europa.eu/ontology/euvoc#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:ns8="http://publications.europa.eu/ontology/authority/"
+	xmlns:ns9="http://publications.europa.eu/resource/authority/" >
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/class-sum-leg/23">
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/2314" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/class-sum-leg/2314">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#ClassSumLeg" />
+    <ns2:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-02</ns2:modified>
+    <owl:versionInfo>20200624-0</owl:versionInfo>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg" />
+    <skos:prefLabel xml:lang="mt">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="bg">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Cooperation between EU countries</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Cooperation between EU countries</skos:prefLabel>
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_96e58e2bed" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_5107b47791" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_1496f4e52c" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_b2c0b86030" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_66afb18557" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_74e5931ec8" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_a6bbc4d3e5" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_c36b08bfb5" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_e597d16ece" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_cb403a7fe3" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_8efefc4d28" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_aaf6c3bdfe" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_f342f18efe" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_b212d86830" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_2ed462bdc2" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_ab4a2a7b83" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_035ee37679" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_665bf741d4" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_33aa96f0a5" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_ce8be0e222" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_f06309deaf" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_b4fec51ded" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_96d69572dc" />
+    <ns5:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/label_98e594bae5" />
+    <ns6:order rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns6:order>
+    <ns6:status rdf:resource="http://publications.europa.eu/resource/authority/concept-status/DEPRECATED" />
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/class-sum-leg/23" />
+    <dc:identifier>2314</dc:identifier>
+    <ns8:authority-code>2314</ns8:authority-code>
+    <ns8:deprecated>true</ns8:deprecated>
+    <ns8:op-code>2314</ns8:op-code>
+    <ns8:start.use>2020-03-18</ns8:start.use>
+    <ns9:op-code>2314</ns9:op-code>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,568 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.2="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/f99b0f55-2ced-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/3c41b377-2b56-11e7-9412-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20170920-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20170427-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20200624-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#documentation"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/ontology/cdm#datetime_transmission">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160217-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/dataset-type/NAL">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_type_dataset"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180926-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/7eaf5f03-350d-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20170920-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20151118-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20190220-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20191211-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/bae11421-e3e8-11e7-9749-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/63bffac6-2b89-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/frequency/OTHER">
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#publication_frequency"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20200624-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20190301-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20171213-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20150520-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/0253009b-12fd-11e8-9253-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20190918-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/e3f05b8d-261c-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/5f5a2648-1b3d-11ea-8c1f-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/9d27a236-b59b-11ea-bb7a-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/91e974bd-2c28-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160921-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20200131-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20150318-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/3306cc97-4366-11ea-b81b-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20170621-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20151118-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180124-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place">
+    <j.0:keyword>places</j.0:keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:work_date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:work_date_document>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:date_start rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-12-31</j.0:date_start>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:keyword>Authority Tables</j.0:keyword>
+    <j.0:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:date_document>
+    <j.0:created_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+    <j.0:datetime_transmission rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-24T00:01:00</j.0:datetime_transmission>
+    <j.0:work_dataset_version>20200624-0</j.0:work_dataset_version>
+    <j.0:has_type rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/NAL"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:work_title xml:lang="en">Place</j.0:work_title>
+    <j.0:work_dataset_date_modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-14</j.0:work_dataset_date_modified>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/place</j.0:identifier>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#evolutive_work"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+    <j.0:keyword>authority data</j.0:keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:work_dataset_keyword>controlled vocabulary</j.0:work_dataset_keyword>
+    <j.0:work_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/place</j.0:work_id>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+    <j.0:published_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:keyword>place</j.0:keyword>
+    <j.0:datetime_negotiation rdf:resource="http://publications.europa.eu/ontology/cdm#datetime_transmission"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#serial_work"/>
+    <j.0:work_has_expression rdf:resource="http://publications.europa.eu/resource/expression/place"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#complex_work"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:work_explained_by_work rdf:resource="http://publications.europa.eu/resource/documentation/place/20200624-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:do_not_index rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:do_not_index>
+    <j.0:work_date_creation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-05</j.0:work_date_creation>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:work_created_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:work_dataset_has_frequency_publication_frequency rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+    <j.0:has_frequency rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+    <j.0:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/place</j.0:id>
+    <j.0:date_modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-14</j.0:date_modified>
+    <j.0:work_dataset_published_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:keyword>controlled vocabulary</j.0:keyword>
+    <j.0:date_creation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-05</j.0:date_creation>
+    <j.0:work_dataset_keyword>places</j.0:work_dataset_keyword>
+    <j.0:work_dataset_has_type_concept_type_dataset rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/NAL"/>
+    <j.0:work_dataset_keyword>place</j.0:work_dataset_keyword>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:work_dataset_has_documentation_documentation rdf:resource="http://publications.europa.eu/resource/documentation/place/20200624-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:work_dataset_description_editorial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="font-family:'Arial Narrow';text-decoration:none"&gt;The Place authority table (AT) is a controlled vocabulary that lists concepts associated with the localities of the world. It provides authority codes that are based on UN/LOCODE codes. The Place AT uses the classification (membership classification) and the authority codes of the Country AT. This AT also provides ISO 3166-2 codes, as well as geographical coordinates. The European capitals of culture are also included. The original name of each locality is indicated. The Corporate body AT uses this AT to identify the seat of each concept (LOC_id), and the Site AT uses it to identify the location of each site (loc_code). The Place authority table is updated based on the stakeholders' needs. Contributions to it are accepted following a review made by EU Vocabularies team of the Publications Office of the EU. The Place AT is maintained by the Publications Office of the European Union on the EU Vocabularies website&lt;span&gt;.&lt;span style="xfa-spacerun:yes"&gt; &lt;/span&gt;
+               &lt;/span&gt;
+            &lt;/p&gt;
+         </j.0:work_dataset_description_editorial>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:work_id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/place</j.0:work_id_document>
+    <j.0:description_editorial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+            &lt;p xmlns="http://www.w3.org/1999/xhtml"
+            style="font-family:'Arial Narrow';text-decoration:none"&gt;The Place authority table (AT) is a controlled vocabulary that lists concepts associated with the localities of the world. It provides authority codes that are based on UN/LOCODE codes. The Place AT uses the classification (membership classification) and the authority codes of the Country AT. This AT also provides ISO 3166-2 codes, as well as geographical coordinates. The European capitals of culture are also included. The original name of each locality is indicated. The Corporate body AT uses this AT to identify the seat of each concept (LOC_id), and the Site AT uses it to identify the location of each site (loc_code). The Place authority table is updated based on the stakeholders' needs. Contributions to it are accepted following a review made by EU Vocabularies team of the Publications Office of the EU. The Place AT is maintained by the Publications Office of the European Union on the EU Vocabularies website&lt;span&gt;.&lt;span style="xfa-spacerun:yes"&gt; &lt;/span&gt;
+               &lt;/span&gt;
+            &lt;/p&gt;
+         </j.0:description_editorial>
+    <j.0:has_documentation rdf:resource="http://publications.europa.eu/resource/documentation/place/20200624-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:published_in rdf:resource="http://publications.europa.eu/resource/dataset/release/20200624-0"/>
+    <j.0:work_dataset_keyword>authority data</j.0:work_dataset_keyword>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:work_dataset_date_start rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-12-31</j.0:work_dataset_date_start>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+    <j.0:work_published_in_work rdf:resource="http://publications.europa.eu/resource/dataset/release/20200624-0"/>
+    <j.0:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:date>
+    <j.0:id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/place</j.0:id_document>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:explained_by rdf:resource="http://publications.europa.eu/resource/documentation/place/20200624-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:title xml:lang="en">Place</j.0:title>
+    <j.0:version>20200624-0</j.0:version>
+    <j.0:work_dataset_keyword>Authority Tables</j.0:work_dataset_keyword>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20170427-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20171213-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20190918-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/6f675288-9297-11e9-9369-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/place/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20200131-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20190301-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20170621-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20190619-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20181212-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/a2bca151-fe06-11e8-a96d-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/fbcb8860-d894-11e9-9c4e-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20160217-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/172ff460-2b56-11e7-9412-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place"/>
+    <j.2:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-24T00:40:21.752+02:00</j.2:lastModificationDate>
+    <j.2:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-27T10:40:23.874+02:00</j.2:creationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20180124-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170427-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20200624-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/51a08073-2dba-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20180926-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/fe9d09cd-c0b8-11e8-9893-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170920-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/e1b4baec-928e-11e9-9369-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20180926-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/0c046f8c-2c3b-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20181212-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190220-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20151118-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20160217-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/38524565-3c1b-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20190619-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20171213-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20140521-3">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190918-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20150318-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/c5fa6aae-25f8-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20191211-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20160921-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170621-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/daddb0cb-3c2c-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/place/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20190220-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/place/20180124-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20140521-3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20191211-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body/PUBL">
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20160921-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20140521-3"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20191211-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20150520-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20190220-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20190918-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20200624-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20180926-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20180124-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20170427-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20150318-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20171213-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20151118-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170621-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190301-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20190301-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20160921-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/place/20150520-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/d40b0d14-2926-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/place/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20181212-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20200131-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190619-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/place/20190619-0"/>
+  </rdf:Description>
+</rdf:RDF>

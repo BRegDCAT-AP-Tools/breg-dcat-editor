@@ -1,0 +1,73 @@
+<?php
+require 'vendor/autoload.php';
+
+function export_menu()
+{
+
+    $items['export'] = array(
+        'title' => 'export descriptions',
+        'page callback' => 'drupal_get_form',
+        'page arguments' => array('export_basic'),
+        'access callback' => true,
+    );
+    return $items;
+}
+
+function export_basic($form, &$form_state)
+{
+
+    $form = array();
+
+    $form['datamodel1'] = array(
+        '#title' => t('Export'),
+        '#type' => 'submit',
+        '#value' => 'Export',
+    );
+
+    return $form;
+}
+
+function export_basic_submit($form, &$form_state)
+{
+
+    $query = "CONSTRUCT {?s ?o ?p}
+ 		WHERE {GRAPH <http://dcat-editor.local> {?s ?o ?p}}";
+
+    $searchUrl = 'http://localhost:48890/sparql?' . 'query=' . urlencode($query) . '&format=rdf';
+
+    if (!function_exists('curl_init')) {
+        die('CURL is not installed');
+    }
+
+    //drupal_set_message($searchUrl);
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $searchUrl);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $response = curl_exec($ch);
+    curl_close($ch);
+
+    //drupal_set_message("worked? " . $response);
+
+    $dir = getcwd();
+
+    //Change this variable to export to another directory
+    $exportfile = $dir . "/sites/rdfExport.rdf";
+    $fh = fopen($exportfile, "w");
+    fwrite($fh, $response);
+    fclose($fh);
+
+	header('Content-Description: File Transfer');
+    header('Content-Type: application/force-download');
+    header("Content-Disposition: attachment; filename=\"" . basename($exportfile) . "\";");
+    header('Content-Transfer-Encoding: binary');
+    header('Expires: 0');
+    header('Cache-Control: must-revalidate');
+    header('Pragma: public');
+    header('Content-Length: ' . filesize($exportfile));
+    ob_clean();
+    flush();
+    readfile($exportfile); //showing the path to the server where the file is to be download
+    exit;
+
+}

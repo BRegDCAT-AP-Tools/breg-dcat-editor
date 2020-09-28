@@ -1,0 +1,819 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.2="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180620-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/8f28fe57-2b95-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/ontology/cdm#datetime_transmission">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20170621-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20171213-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/ab8eec4a-2611-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20160217-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180926-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160316-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/4fde2281-2c4a-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20150520-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20191116-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20151118-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20190220-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160921-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/ac10cfbc-e3e8-11e7-9749-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/163206d3-2c3b-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180124-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/185f9d20-2ea9-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/93020149-2865-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/18603701-2b56-11e7-9412-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20170315-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180725-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20161214-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170427-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170920-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20180321-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20170920-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20190918-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20191211-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20170427-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190918-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20150318-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/f359f134-928e-11e9-9369-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20180725-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170130-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/2a11e74d-752b-11e8-9483-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/170bcce4-30c1-11e7-9412-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20150916-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/28c04ded-2cee-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/b9b4e47c-d894-11e9-9c4e-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20161214-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body/PUBL">
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20191218-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20181212-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/7b1ee532-9297-11e9-9369-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/03bac941-261d-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/5ca95956-350d-11e9-8d04-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20180124-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body">
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:do_not_index rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:do_not_index>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:work_published_in_work rdf:resource="http://publications.europa.eu/resource/dataset/release/20200624-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:work_dataset_version>20200624-0</j.0:work_dataset_version>
+    <j.0:title xml:lang="en">Corporate body</j.0:title>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:work_dataset_keyword>controlled vocabulary</j.0:work_dataset_keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:published_in rdf:resource="http://publications.europa.eu/resource/dataset/release/20200624-0"/>
+    <j.0:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:date>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:datetime_negotiation rdf:resource="http://publications.europa.eu/ontology/cdm#datetime_transmission"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:explained_by rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body/20200624-0"/>
+    <j.0:work_dataset_keyword>corporatebodies</j.0:work_dataset_keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+    <j.0:date_creation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-05</j.0:date_creation>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:published_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:work_dataset_keyword>corporate-body</j.0:work_dataset_keyword>
+    <j.0:keyword>controlled vocabulary</j.0:keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:work_dataset_keyword>authority data</j.0:work_dataset_keyword>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#complex_work"/>
+    <j.0:keyword>corporate-body</j.0:keyword>
+    <j.0:id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/corporate-body</j.0:id_document>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:keyword>authority data</j.0:keyword>
+    <j.0:version>20200624-0</j.0:version>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:work_created_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:work_dataset_has_type_concept_type_dataset rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/NAL"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:work_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/corporate-body</j.0:work_id>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:date_modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-14</j.0:date_modified>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+    <j.0:work_dataset_description_editorial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This table provides the varying names of EU corporate bodies for a given time span. Some other corporate bodies are also included as far as they are used in the various systems in the Publications Office. They are classified accordingly in "EU" | "INT (for international)" | "Other". The traceability of the chronological modifications is ensured when possible.&lt;br/&gt;&lt;br/&gt;For the EU Corporate bodies, the legal basis is also indicated, as far as they are known.&lt;br/&gt;&lt;br/&gt;As the official languages have changed over the time, the translations are provided in the existing official languages for a given period. The names are provided under the labels and in a longer form (e.g. Committee of the Regions | Committee of the Regions of the European Union).&lt;br/&gt;&lt;br/&gt;A bi-directional vertical relationship shows how the entities are connected in a parent-child relationship.&lt;br/&gt;&lt;br/&gt;A bi-directional horizontal relationship is establish between the entities, starting at a given date and, if the case occurs, the link to the successor and the predecessor.&lt;br/&gt;&lt;br/&gt;</j.0:work_dataset_description_editorial>
+    <j.0:has_type rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/NAL"/>
+    <j.0:work_has_expression rdf:resource="http://publications.europa.eu/resource/expression/corporate-body"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:created_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:keyword>Authority Tables</j.0:keyword>
+    <j.0:work_date_creation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-05</j.0:work_date_creation>
+    <j.0:has_documentation rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body/20200624-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:work_date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:work_date_document>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/corporate-body</j.0:id>
+    <j.0:date_start rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-01-01</j.0:date_start>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:work_dataset_published_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</j.0:date_document>
+    <j.0:work_explained_by_work rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body/20200624-0"/>
+    <j.0:has_frequency rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+    <j.0:work_dataset_has_documentation_documentation rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body/20200624-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:work_dataset_has_frequency_publication_frequency rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+    <j.0:keyword>corporatebodies</j.0:keyword>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+    <j.0:description_editorial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This table provides the varying names of EU corporate bodies for a given time span. Some other corporate bodies are also included as far as they are used in the various systems in the Publications Office. They are classified accordingly in "EU" | "INT (for international)" | "Other". The traceability of the chronological modifications is ensured when possible.&lt;br/&gt;&lt;br/&gt;For the EU Corporate bodies, the legal basis is also indicated, as far as they are known.&lt;br/&gt;&lt;br/&gt;As the official languages have changed over the time, the translations are provided in the existing official languages for a given period. The names are provided under the labels and in a longer form (e.g. Committee of the Regions | Committee of the Regions of the European Union).&lt;br/&gt;&lt;br/&gt;A bi-directional vertical relationship shows how the entities are connected in a parent-child relationship.&lt;br/&gt;&lt;br/&gt;A bi-directional horizontal relationship is establish between the entities, starting at a given date and, if the case occurs, the link to the successor and the predecessor.&lt;br/&gt;&lt;br/&gt;</j.0:description_editorial>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:datetime_transmission rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-24T00:01:00</j.0:datetime_transmission>
+    <j.0:work_id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/corporate-body</j.0:work_id_document>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+    <j.0:work_dataset_date_modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-14</j.0:work_dataset_date_modified>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:work_dataset_keyword>Authority Tables</j.0:work_dataset_keyword>
+    <j.0:work_title xml:lang="en">Corporate body</j.0:work_title>
+    <j.0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://publications.europa.eu/resource/authority/corporate-body</j.0:identifier>
+    <j.0:work_dataset_date_start rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-01-01</j.0:work_dataset_date_start>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#evolutive_work"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#serial_work"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160217-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/dataset-type/NAL">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_type_dataset"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/75fad1b4-2929-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/6ad2bd77-2b89-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/b19c256a-2db9-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20200318-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/b26f2f55-fe06-11e8-a96d-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/340f62f9-4366-11ea-b81b-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20180926-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20191116-0">
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20170130-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20191211-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20150916-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/frequency/OTHER">
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170130-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170427-0"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#publication_frequency"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190918-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150318-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20160316-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160316-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20200131-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20170920-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20160217-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180321-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180321-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20150916-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/bc491091-07a3-11ea-8c1f-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191116-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20161214-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/c6415ebf-25f8-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20180620-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180620-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20181212-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20181212-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/153af92d-25fd-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20190619-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/b92bcf65-2c28-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20150520-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/b7157b39-91b0-11e8-8bc1-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180725-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/10e43827-217a-11ea-95ab-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20170428-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/612d86ba-1b3d-11ea-8c1f-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191211-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/086366ae-6891-11ea-b735-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20200624-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20191218-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20191218-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190220-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20151118-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20190220-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20151118-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20171213-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20140521-3">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20140521-3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/bbf21521-c0b8-11e8-9893-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180926-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170428-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170428-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170621-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170621-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20200318-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200318-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20200624-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#documentation"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/016b119a-12fd-11e8-9253-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20180124-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body/20160921-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20160921-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170315-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/82f69dd3-b59b-11ea-bb7a-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200624-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20200131-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20200131-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body/20170315-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20190619-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body/20190619-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/07e1a665-2b56-11e7-9412-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body"/>
+    <j.2:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-29T09:58:10.231+02:00</j.2:lastModificationDate>
+    <j.2:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-27T10:37:08.166+02:00</j.2:creationDate>
+  </rdf:Description>
+</rdf:RDF>

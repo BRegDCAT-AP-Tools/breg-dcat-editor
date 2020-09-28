@@ -1,0 +1,208 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.2="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/bcdb0f64-e3e8-11e7-9749-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body-classification/20171213-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/ontology/cdm#datetime_transmission">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/dataset-type/NAL">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_type_dataset"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:concept_type_dataset_is_type_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170920-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/a53dd074-26c3-11e8-ac73-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/7c676dfa-2dba-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20180926-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body-classification">
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:work_dataset_date_modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-09-14</j.0:work_dataset_date_modified>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#serial_work"/>
+    <j.0:work_dataset_keyword>corporate-body-classification</j.0:work_dataset_keyword>
+    <j.0:has_frequency rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+    <j.0:has_type rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/NAL"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:work_id>http://publications.europa.eu/resource/authority/corporate-body-classification</j.0:work_id>
+    <j.0:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-09-26</j.0:date>
+    <j.0:explained_by rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body-classification/20180926-0"/>
+    <j.0:work_dataset_date_start rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-01-01</j.0:work_dataset_date_start>
+    <j.0:work_dataset_published_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:work_published_in_work rdf:resource="http://publications.europa.eu/resource/dataset/release/20180926-0"/>
+    <j.0:work_dataset_keyword>controlled vocabulary</j.0:work_dataset_keyword>
+    <j.0:work_dataset_keyword>authority data</j.0:work_dataset_keyword>
+    <j.0:date_creation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-09-26</j.0:date_creation>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:work_created_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:id_document>http://publications.europa.eu/resource/authority/corporate-body-classification</j.0:id_document>
+    <j.0:work_dataset_has_frequency_publication_frequency rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+    <j.0:work_date_creation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-09-26</j.0:work_date_creation>
+    <j.0:work_dataset_description_editorial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Corporate body classification NAL provides types of corporate bodies.</j.0:work_dataset_description_editorial>
+    <j.0:date_modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-09-14</j.0:date_modified>
+    <j.0:work_id_document>http://publications.europa.eu/resource/authority/corporate-body-classification</j.0:work_id_document>
+    <j.0:id>http://publications.europa.eu/resource/authority/corporate-body-classification</j.0:id>
+    <j.0:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-09-26</j.0:date_document>
+    <j.0:date_start rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-01-01</j.0:date_start>
+    <j.0:work_explained_by_work rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body-classification/20180926-0"/>
+    <j.0:work_has_expression rdf:resource="http://publications.europa.eu/resource/expression/corporate-body-classification"/>
+    <j.0:published_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:keyword>corporate-body-classification</j.0:keyword>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:version>20180926-0</j.0:version>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#evolutive_work"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:work_dataset_version>20180926-0</j.0:work_dataset_version>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#complex_work"/>
+    <j.0:keyword>authority data</j.0:keyword>
+    <j.0:published_in rdf:resource="http://publications.europa.eu/resource/dataset/release/20180926-0"/>
+    <j.0:datetime_transmission rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T00:01:00</j.0:datetime_transmission>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <j.0:has_documentation rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body-classification/20180926-0"/>
+    <j.0:work_dataset_keyword>Authority Tables</j.0:work_dataset_keyword>
+    <j.0:keyword>Authority Tables</j.0:keyword>
+    <j.0:created_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:has_member rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:work_title xml:lang="en">Corporate body classification</j.0:work_title>
+    <j.0:description_editorial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Corporate body classification NAL provides types of corporate bodies.</j.0:description_editorial>
+    <j.0:title xml:lang="en">Corporate body classification</j.0:title>
+    <j.0:work_date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-09-26</j.0:work_date_document>
+    <j.0:work_dataset_has_documentation_documentation rdf:resource="http://publications.europa.eu/resource/documentation/corporate-body-classification/20180926-0"/>
+    <j.0:work_dataset_has_type_concept_type_dataset rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/NAL"/>
+    <j.0:datetime_negotiation rdf:resource="http://publications.europa.eu/ontology/cdm#datetime_transmission"/>
+    <j.0:identifier>http://publications.europa.eu/resource/authority/corporate-body-classification</j.0:identifier>
+    <j.0:complex_work_has_member_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:keyword>controlled vocabulary</j.0:keyword>
+    <j.0:do_not_index rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:do_not_index>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body-classification/20160831-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20171213-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/frequency/OTHER">
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#publication_frequency"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:publication_frequency_is_frequency_of_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20170130-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body-classification/20180926-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#documentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/release/20160831-0">
+    <j.0:work_publishes_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:publishes rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/1646811e-2ea9-11e8-b5fe-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body/PUBL">
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20160831-0"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:agent_publishes_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20171213-0"/>
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work_dataset"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body-classification/20170920-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170920-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/documentation/corporate-body-classification/20170130-0">
+    <j.0:work_explains_work rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:explains rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:documents rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+    <j.0:documentation_documents_work_dataset rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20170130-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/9ef4f223-e3e8-11e7-9749-01aa75ed71a1">
+    <j.2:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-27T10:42:09.454+02:00</j.2:creationDate>
+    <j.2:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-27T10:42:09.454+02:00</j.2:lastModificationDate>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/23e4ccf5-c0b9-11e8-9893-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/dataset/corporate-body-classification/20180926-0"/>
+  </rdf:Description>
+</rdf:RDF>

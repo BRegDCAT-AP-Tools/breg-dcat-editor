@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:atold="http://publications.europa.eu/resource/authority/" xmlns:at="http://publications.europa.eu/ontology/authority/">
+  <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/licence-domain" at:table.id="licence-domain" at:table.version.number="20190619-0">
+    <owl:versionInfo>20190619-0</owl:versionInfo>
+    <rdfs:label xml:lang="en">Licence domain</rdfs:label>
+    <at:prefLabel xml:lang="en">Licence domain</at:prefLabel>
+    <skos:prefLabel xml:lang="en">Licence domain</skos:prefLabel>
+  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/licence-domain/DATA" at:deprecated="false">
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/licence-domain"/>
+    <at:authority-code>DATA</at:authority-code>
+    <at:op-code>DATA</at:op-code>
+    <atold:op-code>DATA</atold:op-code>
+    <dc:identifier>DATA</dc:identifier>
+    <at:start.use>1952-07-23</at:start.use>
+    <skos:prefLabel xml:lang="en">Data</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/licence-domain/METADATA" at:deprecated="false">
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/licence-domain"/>
+    <at:authority-code>METADATA</at:authority-code>
+    <at:op-code>METADATA</at:op-code>
+    <atold:op-code>METADATA</atold:op-code>
+    <dc:identifier>METADATA</dc:identifier>
+    <at:start.use>1952-07-23</at:start.use>
+    <skos:prefLabel xml:lang="en">Metadata</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART" at:deprecated="false">
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/licence-domain"/>
+    <at:authority-code>W_LIT_ART</at:authority-code>
+    <at:op-code>W_LIT_ART</at:op-code>
+    <atold:op-code>W_LIT_ART</atold:op-code>
+    <dc:identifier>W_LIT_ART</dc:identifier>
+    <at:start.use>1952-07-23</at:start.use>
+    <skos:prefLabel xml:lang="en">Literary and/or artistic works</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/licence-domain/CODE" at:deprecated="false">
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/licence-domain"/>
+    <at:authority-code>CODE</at:authority-code>
+    <at:op-code>CODE</at:op-code>
+    <atold:op-code>CODE</atold:op-code>
+    <dc:identifier>CODE</dc:identifier>
+    <at:start.use>1952-07-23</at:start.use>
+    <skos:prefLabel xml:lang="en">Code</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO">
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/licence-domain"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

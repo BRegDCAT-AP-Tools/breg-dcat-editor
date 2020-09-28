@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:ns2="http://purl.org/dc/terms/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:ns5="http://publications.europa.eu/ontology/euvoc#"
+	xmlns:ns6="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/" >
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/euroscivoc/78af21c9-e5ec-48b3-9708-1cf7e0ab04b9">
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/9dae8eac-d3e5-460c-960a-225a5c6a7c33" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/euroscivoc/9dae8eac-d3e5-460c-960a-225a5c6a7c33">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <ns2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-12-02</ns2:created>
+    <owl:versionInfo>1.1</owl:versionInfo>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc" />
+    <skos:prefLabel xml:lang="es">idiomas - general</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Sprachen – allgemein</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">języki – ogólne</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">languages - general</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">lingue - generale</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">langues - général</skos:prefLabel>
+    <ns5:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-12-02</ns5:startDate>
+    <ns6:altLabel rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/0470b42f-7b98-4973-a2b6-97994a70ca1d" />
+    <ns6:altLabel rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/85a70bbe-3d52-4e51-972c-e467fa6b08ba" />
+    <ns6:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/05b95c7c-8e7e-4706-a57a-035824fb1e75" />
+    <ns6:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/1228ae23-a1d6-47c3-afa4-3add19f9b471" />
+    <ns6:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/fbd6c696-c61d-4b7e-ac05-db9e0899daf8" />
+    <ns6:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/0227179a-4bb9-4784-bdbd-9931bd4adb93" />
+    <ns6:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/a72d48ea-bb2a-492d-bcc8-fd31d97e54f6" />
+    <ns6:prefLabel rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/a794962a-a953-43e1-bcee-c85d3ff11825" />
+    <ns5:status rdf:resource="http://publications.europa.eu/resource/authority/concept-status/CURRENT" />
+    <ns5:xlNotation rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/692e0bba-20a3-4462-9f33-6ac7356e9f5a" />
+    <skos:altLabel xml:lang="en">language</skos:altLabel>
+    <skos:altLabel xml:lang="en">languages</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/euroscivoc/78af21c9-e5ec-48b3-9708-1cf7e0ab04b9" />
+    <dc:identifier>9dae8eac-d3e5-460c-960a-225a5c6a7c33</dc:identifier>
+  </rdf:Description>
+</rdf:RDF>

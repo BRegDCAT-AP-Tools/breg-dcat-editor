@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:ns2="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:sioc="http://rdfs.org/sioc/ns#" >
+  <rdf:Description rdf:about="http://dcat-editor.local/content/00000001">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent" />
+    <ns2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-03T10:48:07+02:00</ns2:created>
+    <ns2:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-03T10:48:07+02:00</ns2:modified>
+    <foaf:name>00000001</foaf:name>
+    <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-03T10:48:07+02:00</ns2:date>
+    <sioc:num_replies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</sioc:num_replies>
+  </rdf:Description>
+</rdf:RDF>
