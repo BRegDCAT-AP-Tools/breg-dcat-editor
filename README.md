@@ -12,6 +12,7 @@ This application has configured to launch a [docker](https://www.docker.com/) co
     $ cd path_to_editor
     $ docker-compose up --build
     
+The application can be accessed on http://localhost:40080/
 
 ### Local deployment 
 
