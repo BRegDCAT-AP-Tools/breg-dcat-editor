@@ -31,7 +31,7 @@ function export_basic_submit($form, &$form_state)
 {
 
     $query = "CONSTRUCT {?s ?o ?p}
- 		WHERE {GRAPH <http://dcat-editor.local> {?s ?o ?p}}";
+ 		WHERE {GRAPH <http://breg-dcat-editor.pilot> {?s ?o ?p}}";
 
     $searchUrl = 'http://localhost:48890/sparql?' . 'query=' . urlencode($query) . '&format=rdf';
 

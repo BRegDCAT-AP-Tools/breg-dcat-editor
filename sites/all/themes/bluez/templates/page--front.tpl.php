@@ -66,19 +66,6 @@
  */
 ?>
 <div id="wrapper">
-  <!-- socialbar Starts -->
-  <?php if ($display): ?>
-    <div id="socialbar">
-      <ul class="social">
-        <?php $options['attributes'] = array('target' => '_blank'); ?>
-        <?php if ($facebook): ?><li class="fb"><?php print l(t('facebook'), $facebook, $options); ?></li> <?php endif; ?>
-        <?php if ($twitter): ?><li class="tw"><?php print l(t('twitter'), $twitter, $options); ?></li> <?php endif; ?>
-        <?php if ($linkedin): ?><li class="ln"><?php print l(t('linkedin'), $linkedin, $options); ?></li> <?php endif; ?>
-      </ul>
-    </div>
-    <?php endif; ?>
-    <!-- socialbar Ends -->
-  
   <!-- Header Starts -->
   <div id="header" class="clearfix">
     <?php if ($logo || $site_slogan): ?>
