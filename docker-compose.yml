@@ -11,12 +11,12 @@ services:
     ports:
       - 43306:3306    
     volumes:
-      - "./mysql/dcat-database-init.sql:/docker-entrypoint-initdb.d/z_dcat-database-init.sql"
+      - "./dcat-editor-database.sql:/docker-entrypoint-initdb.d/z_dcat-database-init.sql"
       - "./volumes/mysql/:/var/lib/mysql/"
 
 
   editor:
-    build: ./editor
+    build: .
     image: bregdcat_editor:0.01
     container_name: bregdcat-editor
     ports:
@@ -27,8 +27,6 @@ services:
     environment:
       VIRTUOSO_SPARQL_ENDPOINT: 'http://localhost:48890/sparql'
       GRAPHURI: 'http://drupal.bregdcat-ap.eu'
-    volumes:
-      - "./volumes/editor/sites/:/var/www/html/sites/"
 
   virtuoso:
     image: tenforce/virtuoso:virtuoso7.2.4
