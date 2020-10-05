@@ -33,7 +33,7 @@ function export_basic_submit($form, &$form_state)
     $query = "CONSTRUCT {?s ?o ?p}
  		WHERE {GRAPH <http://breg-dcat-editor.pilot> {?s ?o ?p}}";
 
-    $searchUrl = 'http://localhost:48890/sparql?' . 'query=' . urlencode($query) . '&format=rdf';
+    $searchUrl = 'http://virtuoso:8890/sparql?' . 'query=' . urlencode($query) . '&format=rdf';
 
     if (!function_exists('curl_init')) {
         die('CURL is not installed');
